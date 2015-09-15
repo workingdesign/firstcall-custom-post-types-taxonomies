@@ -1,15 +1,15 @@
 <?php
 /**
  * Plugin Name: FirstCall Custom Post Types and Taxonomies
- * Plugin URI: http://workingdesign.net
+ * Plugin URI: http://griccardi.com
  * Description: A custom plugin that adds custom post types and taxonomies
  * Version: 0.1
- * Author: Working Design
- * Author URI: http://workingdesign.net
+ * Author: Giorgio Riccardi
+ * Author URI: http://griccardi.com
  * License: GPL2
  */
 
-/*  Copyright 2015  WorkingDesign  (email : giorgio@workingdesign.net)
+/*  Copyright 2015  Giorgio Riccardi  (email : giorgio@griccardi.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
